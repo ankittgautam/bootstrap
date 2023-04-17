@@ -1,0 +1,247 @@
+body{
+    font-family: 'prague';
+}
+
+.a{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.img{
+    width: 80%;
+}
+@media(max-width:768px)
+{
+    .img{
+        width: 100px;
+    }
+}
+.media{
+    background: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    background-size: cover;
+}
+.media h1{
+    color: white;
+    margin-top: 120px;
+}
+.media p{
+    color: white;
+    letter-spacing: 1px;
+    line-height: 40px; 
+}
+.media button{
+    background: #fbac29;
+    background-size: cover;
+    border-radius: 7px;
+}
+.ourbrnd{
+    margin: 22px 0px;
+}
+.concept{
+    background: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+    background-size: cover;
+}
+.concept h1{
+    color: white;
+    margin-top: 120px;
+}
+.concept p{
+    color: white;
+    letter-spacing: 1px;
+    line-height: 40px; 
+}
+.concept button{
+    background: #fbac29;
+    background-size: cover;
+    border-radius: 7px;
+}
+.footer{
+    background-size: cover;
+    background-color: #111215;
+}
+.footer h1{
+    letter-spacing: 2px;
+}
+.col-md-6 h5{
+    color:#fbaa1a;
+}
+.footer i{
+    color:#fbaa1a;
+    font-size:30px;
+    padding:0 5px;
+}
+.weblogo{
+    width: 65px;
+  }
+  .navbar{
+    background-color:#000000c2;
+  }
+  .navbar-nav li
+      {
+       padding: 0 10px;
+      }
+     .navbar-nav li a
+    {
+      color: #fff;
+      font-weight: 600;
+      font-size: 20px;
+     }
+     .c{
+      text-align: center;
+    }
+     .moblogo{
+      display: none;
+     }
+     @media(max-width:700px){
+      .moblogo{
+        display: block;
+      }
+      .weblogo{
+        display: none;
+      }
+      .navbar{
+        background: #fcb01b;
+      }
+     }
+    .img-title{
+        position: absolute;
+        color: #fff;
+        text-align: center;
+        left: 0%;
+        right: 0;
+        top: 45%;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+    }
+    .img-title h1{
+    font-size: 90px;
+    text-align: center;
+    }
+@media(max-width:600px){
+    .card img{
+        margin-top: 13%;
+    }
+    .img-title h1{
+        font-size: 50px;
+        text-align: center;
+        }
+}
+.game{
+    background: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+    background-size: cover;
+    height:400px;
+}
+.gamechanger h2{
+    color: white;
+    
+}
+.gamechanger span{
+    color: white;
+}
+.theman p{
+    font-size: 15px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.theman img{
+    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+.ourfamily p{
+    font-size: 15px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.ourfamily img{
+    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+.ab{
+    margin: 22px 0px;
+}
+.team p{
+    letter-spacing: 1px;
+    text-align: justify;
+}
+.team button{
+    color: white;
+    background-color:#fbaa1a;
+}
+.team i{
+    color: #fbaa1a;
+    font-size: 36px;
+    margin: 0 10px;
+}
+.team1 img{
+    margin: 22px 0px;
+    height: auto;
+}
+.team1{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    margin-top: 20px;
+}
+.team1 h3{
+    font-size: 22px;
+    font-weight:bold;
+    text-transform: uppercase;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    top: -24%;
+}    
+    
+.team1 span{
+    display: block;
+    font-size: 15px;
+    color: #ffffff;
+    position: relative;
+    top: -22%;
+}
+.press hr{
+    width:45%;
+    text-align:left;
+    margin-left:0
+}
+.p1{
+    margin: 0 275px;
+}
+.press1{
+    box-shadow: 0 10px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%) !important;
+}
+.withus h4{
+    font-size: 41px;
+    word-spacing: 5px;
+}
+.withus p{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    color: #8c8a84;
+}
+.curve p{
+    color: #8c8a84;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px; 
+}
+.curve h4{
+    color: #000000;
+}
+.cbox{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+
+ 
